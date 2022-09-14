@@ -1,0 +1,7 @@
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicio I03 - ¡A contar palabras!\obj\Debug\net6.0-windows\Ejercicio I03 - ¡A contar palabras!.csproj.AssemblyReference.cache
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicio I03 - ¡A contar palabras!\obj\Debug\net6.0-windows\Ejercicio_I03____A_contar_palabras_.frm_contadorPalabras.resources
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicio I03 - ¡A contar palabras!\obj\Debug\net6.0-windows\Ejercicio I03 - ¡A contar palabras!.csproj.GenerateResource.cache
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicio I03 - ¡A contar palabras!\obj\Debug\net6.0-windows\Ejercicio I03 - ¡A contar palabras!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicio I03 - ¡A contar palabras!\obj\Debug\net6.0-windows\Ejercicio I03 - ¡A contar palabras!.AssemblyInfoInputs.cache
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicio I03 - ¡A contar palabras!\obj\Debug\net6.0-windows\Ejercicio I03 - ¡A contar palabras!.AssemblyInfo.cs
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicio I03 - ¡A contar palabras!\obj\Debug\net6.0-windows\Ejercicio I03 - ¡A contar palabras!.csproj.CoreCompileInputs.cache

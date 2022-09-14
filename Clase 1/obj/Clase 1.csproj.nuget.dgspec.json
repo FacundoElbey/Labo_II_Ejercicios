@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\1 Ejercicio I01.csproj": {}
+    "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Clase 1\\Clase 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\1 Ejercicio I01.csproj": {
+    "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Clase 1\\Clase 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\1 Ejercicio I01.csproj",
-        "projectName": "1 Ejercicio I01",
-        "projectPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\1 Ejercicio I01.csproj",
+        "projectUniqueName": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Clase 1\\Clase 1.csproj",
+        "projectName": "Clase 1",
+        "projectPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Clase 1\\Clase 1.csproj",
         "packagesPath": "C:\\Users\\river\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\obj\\",
+        "outputPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Clase 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\river\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\1 Ejercicio I01.csproj",
-      "projectName": "1 Ejercicio I01",
-      "projectPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\1 Ejercicio I01.csproj",
+      "projectUniqueName": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Ejercicios\\Entidades\\Entidades.csproj",
+      "projectName": "Entidades",
+      "projectPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Ejercicios\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\river\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\obj\\",
+      "outputPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Ejercicios\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\river\\AppData\\Roaming\\NuGet\\NuGet.Config",

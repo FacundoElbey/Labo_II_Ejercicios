@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0-windows7.0": []
   },
   "packageFolders": {
     "C:\\Users\\river\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\1 Ejercicio I01.csproj",
-      "projectName": "1 Ejercicio I01",
-      "projectPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\1 Ejercicio I01.csproj",
+      "projectUniqueName": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Ejercicio I03 - ¡A contar palabras!\\Ejercicio I03 - ¡A contar palabras!.csproj",
+      "projectName": "Ejercicio I03 - ¡A contar palabras!",
+      "projectPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Ejercicio I03 - ¡A contar palabras!\\Ejercicio I03 - ¡A contar palabras!.csproj",
       "packagesPath": "C:\\Users\\river\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\1 Ejercicio I01\\obj\\",
+      "outputPath": "C:\\Users\\river\\Documents\\Visual Studio 2022\\Labo II\\Ejercicios\\Labo_II_Ejercicios\\Ejercicio I03 - ¡A contar palabras!\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\river\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net6.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -59,9 +59,12 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
