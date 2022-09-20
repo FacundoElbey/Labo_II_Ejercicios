@@ -1,0 +1,5 @@
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\8 Ejercicio I01 - Puesto de atención\obj\Debug\net6.0\8 Ejercicio I01 - Puesto de atención.csproj.AssemblyReference.cache
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\8 Ejercicio I01 - Puesto de atención\obj\Debug\net6.0\8 Ejercicio I01 - Puesto de atención.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\8 Ejercicio I01 - Puesto de atención\obj\Debug\net6.0\8 Ejercicio I01 - Puesto de atención.AssemblyInfoInputs.cache
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\8 Ejercicio I01 - Puesto de atención\obj\Debug\net6.0\8 Ejercicio I01 - Puesto de atención.AssemblyInfo.cs
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\8 Ejercicio I01 - Puesto de atención\obj\Debug\net6.0\8 Ejercicio I01 - Puesto de atención.csproj.CoreCompileInputs.cache

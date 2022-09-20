@@ -1,0 +1,18 @@
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.csproj.AssemblyReference.cache
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.AssemblyInfoInputs.cache
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.AssemblyInfo.cs
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.csproj.CoreCompileInputs.cache
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\bin\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.exe
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\bin\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.deps.json
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\bin\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.runtimeconfig.json
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\bin\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.dll
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\bin\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.pdb
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\bin\Debug\net6.0\Entidades_C01.dll
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\bin\Debug\net6.0\Entidades_C01.pdb
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.csproj.CopyComplete
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.dll
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\refint\_9_Ejercicio C01 - Herencia deportiva.dll
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.pdb
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\_9_Ejercicio C01 - Herencia deportiva.genruntimeconfig.cache
+C:\Users\river\Documents\Visual Studio 2022\Labo II\Ejercicios\Labo_II_Ejercicios\Ejercicios\_9_Ejercicio C01 - Herencia deportiva\obj\Debug\net6.0\ref\_9_Ejercicio C01 - Herencia deportiva.dll
